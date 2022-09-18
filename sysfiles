@@ -7,3 +7,4 @@ wget https://raw.githubusercontent.com/m6jgj/system/main/system-update
 chmod +x system-update
 wget https://raw.githubusercontent.com/m6jgj/system/main/wanip
 chmod +x wanip
+rm sysfiles
