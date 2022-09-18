@@ -1,0 +1,9 @@
+#!/bin/bash
+wget https://raw.githubusercontent.com/m6jgj/system/main/check-my-net
+chmod +x check-my-net
+wget https://raw.githubusercontent.com/m6jgj/system/main/lanip
+chmod +x lanip
+wget https://raw.githubusercontent.com/m6jgj/system/main/system-update
+chmod +x system-update
+wget https://raw.githubusercontent.com/m6jgj/system/main/wanip
+chmod +x wanip
