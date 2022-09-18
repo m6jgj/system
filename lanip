@@ -1,0 +1,4 @@
+#!/bin/bash
+ip=$(hostname -I)
+echo "My lAN IP Address Is:" $ip
+
