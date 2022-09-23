@@ -1,0 +1,4 @@
+#!/bin/bash
+wget https://raw.githubusercontent.com/m6jgj/system/main/system-update
+chmod +x system-update
+sudo mv system-update /usr/bin/
