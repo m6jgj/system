@@ -7,4 +7,4 @@ cd noip-2.1.9-1
 sudo make
 sudo make install
 cd
-rm noip-duc-linux.sh
+sudo rm noip-duc-linux.sh
